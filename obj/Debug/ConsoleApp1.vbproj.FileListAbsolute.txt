@@ -1,0 +1,11 @@
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.xml
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.ResolveComReference.cache
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.Resources.resources
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.GenerateResource.cache
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.vbproj.CoreCompileInputs.cache
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.xml
+D:\Users\Dev_WL4MA\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
